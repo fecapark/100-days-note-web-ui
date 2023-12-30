@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="572" alt="logo" src="https://github.com/fecapark/100-days-note-web-ui/assets/101973955/23f1fc30-cac2-457a-918b-3a5280f206a5">
+  <img width="200" alt="logo" src="https://github.com/fecapark/100-days-note-web-ui/assets/101973955/23f1fc30-cac2-457a-918b-3a5280f206a5">
 </div>
 
 # 100 Days Note Web UI
